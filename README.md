@@ -120,9 +120,9 @@ A new customer with the profile: `{'Age': 30, 'AnnualIncome': 60000, 'SpendingSc
 ```
  customer-segmentation-urbancart
 ├── customer_segmentation_dataset.csv
-├── Case study - Unsupervised Learning (Clustering).ipynb
+├── Customer Segmentation for Urban Cart - Unsupervised Learning (Clustering).ipynb
 ├── README.md
-├── Customer Segmentation For Urban Cart Retail Chain - Clustering.pptx.pdf
+
 
 
 ## Personal Reflection
