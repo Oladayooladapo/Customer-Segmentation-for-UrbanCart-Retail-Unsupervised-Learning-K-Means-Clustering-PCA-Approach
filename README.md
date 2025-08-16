@@ -1,0 +1,2 @@
+# Customer-Segmentation-for-UrbanCart-Retail-Unsupervised-Learning-K-Means-Clustering-PCA-Approach
+This project presents a comprehensive customer segmentation analysis for **UrbanCart Retail Chain**.  By applying **unsupervised machine learning (K-Means Clustering)** and enhancing the model with **Principal Component Analysis (PCA)**, this study transforms raw transactional and demographic data into actionable business intelligence.
