@@ -122,9 +122,16 @@ A new customer with the profile: `{'Age': 30, 'AnnualIncome': 60000, 'SpendingSc
 ├── customer_segmentation_dataset.csv
 ├── Customer Segmentation for Urban Cart - Unsupervised Learning (Clustering).ipynb
 ├── README.md
+├── dscaler.pkl - Scaler file used in demonstrating real-life usage
+├── encoders.pkl - Encoder file used in demonstrating real-life usage
+├── kmeans.pkl - KMeans file used in demonstrating real-life usage
+├── label_encoders.pkl - LabelEncoder file used in demonstrating real-life usage
+├── model.pkl - Model developed
+├── Scaler.pkl - Scaler file used in demonstrating real-life usage
+
 
 
 
 ## Personal Reflection
 
-This project deepened my expertise in **unsupervised learning** and customer-centric analytics. As a Yoruba-born data scientist navigating the UK job market, I designed this case to mirror real business use-cases in retail. The ability to derive clusters that speak to behavioural economics and consumer psychology is something I find deeply fulfilling.
+This project deMONSTRATED my expertise in **unsupervised learning** and customer-centric analytics. I designed this case to mirror real business use-cases in retail. The ability to derive clusters that speak to behavioural economics and consumer psychology is something I find deeply fulfilling.
