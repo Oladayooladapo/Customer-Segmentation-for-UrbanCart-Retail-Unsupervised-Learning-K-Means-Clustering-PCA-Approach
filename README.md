@@ -134,4 +134,4 @@ A new customer with the profile: `{'Age': 30, 'AnnualIncome': 60000, 'SpendingSc
 
 ## Personal Reflection
 
-This project deMONSTRATED my expertise in **unsupervised learning** and customer-centric analytics. I designed this case to mirror real business use-cases in retail. The ability to derive clusters that speak to behavioural economics and consumer psychology is something I find deeply fulfilling.
+This project demonstrated my expertise in **unsupervised learning** and customer-centric analytics. I designed this case to mirror real business use-cases in retail. The ability to derive clusters that speak to behavioural economics and consumer psychology is something I find deeply fulfilling.
